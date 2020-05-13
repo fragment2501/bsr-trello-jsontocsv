@@ -1,0 +1,14 @@
+{
+  "name": "bsr-trello-jsontocsv",
+  "version": "1.0.0",
+  "description": "Convert trello board export from json to csv",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^5.5.0"
+  }
+}
